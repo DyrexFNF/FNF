@@ -40,4 +40,4 @@
 <p>i will try my best to keep updating this website atleast once a week, but dont take my word for it. but till next time! cya gamers later!!</p>
 <p>____________________________________________________________________________________________________________</p>
 <p>&nbsp;</p>
-©Dyrex 2021
+<p>©Dyrex 2021</p>
