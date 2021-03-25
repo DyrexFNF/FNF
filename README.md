@@ -10,7 +10,7 @@
 <p>if you are on chromebook and want to install normal fnf, click <a href="https://friday-night.glitch.me">here.</a></p>
 <p>go up to the url bar and it shows a taskbar icon, click it and add the app to your taskbar.</p>
 <p>_______________________________________________________________________</p>
-<a style="color:#A7C7E7 href="https://forms.gle/ASU6rLTD6KuxjZKz9">Feedback!!</a></p>
+<href="https://forms.gle/ASU6rLTD6KuxjZKz9">Feedback!!</a></p>
 
 <p>updates :&gt;</p>
 <p>|</p>
