@@ -31,6 +31,7 @@
 <p><strong>DyrexFNF Version 1.1&frac12; (3-25-21)</strong></p>
 <p>hellooooo!! i back, I added something because why not :D</p>
 <p>&bull;Embeded FNF and Ugh Mod on the Website</p>
+<p>*doesnt sound like much, but believe me, it took a while to do.*</p>
 <p>___________________________________________________________________________________________________________</p>
 <p><strong>DyrexFNF Version 1.1 (3-24-21)</strong></p>
 <p>hey! i added some new things! the new update includes</p>
