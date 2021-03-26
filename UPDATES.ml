@@ -1,5 +1,5 @@
 layout: page
-title: "Updates"
+title: "UPDATES"
 permalink: /FNF/UPDATES/
 <p>___________________________________________________________________________________________________________</p>
 <p><strong>DyrexFNF Version 1.1&frac12; (3-25-21)</strong></p>
