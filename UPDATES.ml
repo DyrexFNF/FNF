@@ -1,8 +1,6 @@
----
 title: Updates
 layout: template
 filename: UPDATES
---- 
 <p>___________________________________________________________________________________________________________</p>
 <p><strong>DyrexFNF Version 1.1&frac12; (3-25-21)</strong></p>
 <p>hellooooo!! i back, I added something because why not :D</p>
