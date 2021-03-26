@@ -1,5 +1,5 @@
 ---
-title: Updates
+title: UPDATES
 layout: template
 filename: UPDATES
 --- 
