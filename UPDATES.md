@@ -3,6 +3,7 @@ title: UPDATES
 layout: template
 filename: UPDATES
 --- 
+<p>___________________________________________________________________________________________________________</p>
 <p><strong>DyrexFNF Version 1.2 (3-29-21)</strong></p>
 <p>what up dudes!! added some new things!</p>
 <p>&bull;BSIDES Mod</p>
