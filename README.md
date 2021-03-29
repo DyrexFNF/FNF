@@ -12,6 +12,6 @@
 <p>if you are on chromebook and want to install normal fnf, click <a href="https://friday-night.glitch.me">here.</a></p>
 <p>go up to the url bar and it shows a taskbar icon, click it and add the app to your taskbar.</p>
 <p>_______________________________________________________________________</p>
-<p><a href="dyrexfnf.github.io/FNF/UPDATES">Updates :D</a></p>
+<p><a href="https://dyrexfnf.github.io/FNF/UPDATES">Updates :D</a></p>
 <p>&nbsp;</p>
 <p>&copy;Dyrex 2021</p>
