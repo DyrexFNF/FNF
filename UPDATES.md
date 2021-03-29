@@ -3,6 +3,10 @@ title: UPDATES
 layout: template
 filename: UPDATES
 --- 
+<p><strong>DyrexFNF Version 1.2 (3-29-21)</strong></p>
+<p>what up dudes!! added some new things!</p>
+<p>&bull;BSIDES Mod</p>
+<p>&bull;New separate Updates page.</p>
 <p>___________________________________________________________________________________________________________</p>
 <p><strong>DyrexFNF Version 1.1&frac12; (3-25-21)</strong></p>
 <p>hellooooo!! i back, I added something because why not :D</p>
@@ -17,4 +21,4 @@ filename: UPDATES
 <p>i will try my best to keep updating this website atleast once a week, but dont take my word for it. but till next time! cya gamers later!!</p>
 <p>____________________________________________________________________________________________________________</p>
 <p>&nbsp;</p>
-<p>©Dyrex 2021</p>
+<p>&copy;Dyrex 2021</p>
