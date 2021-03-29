@@ -6,7 +6,7 @@
 <p>&nbsp;</p>
 <p>here gaem!: <a href="https://dyrexfnf.github.io/FNF/BASEFNF">click!</a></p>
 <p>here is the ugh mod!: <a href="https://dyrexfnf.github.io/FNF/UGHFNF">ugh :D</a> (GAME DIFFICULTY MUST BE SET ON NORMAL OR IT WILL CRASH)</p>
-<p>BSIDES Mod! <a href="/BSIDES/">bsides :)</a></p>
+<p>BSIDES Mod! <a href="https://dyrexfnf.github.io/FNF/BSIDES">bsides :)</a></p>
 <p>(recommended to only have 1 tab open while playing bsides)</p>
 <p>_______________________________________________________________________</p>
 <p>if you are on chromebook and want to install normal fnf, click <a href="https://friday-night.glitch.me">here.</a></p>
