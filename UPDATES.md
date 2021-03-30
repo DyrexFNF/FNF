@@ -9,7 +9,7 @@ filename: UPDATES
 <p>&bull;BSIDES Mod</p>
 <p>&bull;New separate Updates page.</p>
 <p>___________________________________________________________________________________________________________</p>
-<p><strong>DyrexFNF Version 1.1.5; (3-25-21)</strong></p>
+<p><strong>DyrexFNF Version 1.1.5 (3-25-21)</strong></p>
 <p>hellooooo!! i back, I added something because why not :D</p>
 <p>&bull;Embeded FNF and Ugh Mod on the Website</p>
 <p>*doesnt sound like much, but believe me, it took a while to do.*</p>
