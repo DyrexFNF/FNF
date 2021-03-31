@@ -5,7 +5,7 @@ filename: UPDATES
 --- 
 <p><a href="https://dyrexfnf.github.io/FNF/">Back</a></p>
 <p>___________________________________________________________________________________________________________</p>
-<p><strong>DyrexFNF Version 1.2.1</strong></p>
+<p><strong>DyrexFNF Version 1.2.1 (3-31-21)</strong></p>
 <p>hey there fellas, added some things ;)</p>
 <p>&bull;Blogs Page</p>
 <p>&bull;First Blog Post!</p>
