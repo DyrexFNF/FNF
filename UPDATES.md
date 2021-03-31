@@ -3,7 +3,13 @@ title: UPDATES
 layout: template
 filename: UPDATES
 --- 
-<a href="https://dyrexfnf.github.io/FNF/">Back</a>
+<p><a href="https://dyrexfnf.github.io/FNF/">Back</a></p>
+<p>___________________________________________________________________________________________________________</p>
+<p><strong>DyrexFNF Version 1.2.1</strong></p>
+<p>hey there fellas, added some things ;)</p>
+<p>&bull;Blogs Page</p>
+<p>&bull;First Blog Post!</p>
+<p>*if your interested about the future of DyrexFNF, i'd recommend checking it out!*</p>
 <p>___________________________________________________________________________________________________________</p>
 <p><strong>DyrexFNF Version 1.2 (3-29-21)</strong></p>
 <p>what up dudes!! added some new things!</p>
