@@ -23,3 +23,8 @@ body {
 
 </body>
 </html>
+---
+title: BLOG
+layout: template
+filename: BLOG
+--- 
