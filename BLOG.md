@@ -18,4 +18,4 @@ body {
 }
 </style>
 </head>
-<body>
+ </html>
