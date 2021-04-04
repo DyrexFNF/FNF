@@ -4,6 +4,11 @@ layout: template
 filename: UPDATES
 --- 
 <p style="text-align: center;"><a href="https://dyrexfnf.github.io/FNF/">Back</a></p>
+<p style="text-align: center;"><strong>DyrexFNF Version 1.5 (4-3-21)</strong></p>
+<p style="text-align: center;">big update!!!</p>
+<p style="text-align: center;">&bull;Whitty Mod</p>
+<p style="text-align: center;">&bull;Tricky Mod</p>
+<p style="text-align: center;">&bull;Neo Mod</p>
 <p style="text-align: center;">___________________________________________________________________________________________________________</p>
 <p style="text-align: center;"><strong>DyrexFNF Version 1.2.1 (3-31-21)</strong></p>
 <p style="text-align: center;">hey there fellas, added some things ;)</p>
