@@ -18,4 +18,5 @@
 <p class="unchanged rich-diff-level-one"><a href="https://dyrexfnf.github.io/FNF/BLOG" rel="nofollow">Blogs :D</a></p>
 <p class="unchanged rich-diff-level-one"><a href="https://dyrexfnf.github.io/FNF/UPDATES" rel="nofollow">Updates :D</a></p>
 <p class="unchanged rich-diff-level-one">&nbsp;</p>
+<p class="unchanged rich-diff-level-one">DyrexFNF V1.5</p>
 <p class="unchanged rich-diff-level-one">&copy;Dyrex 2021</p>
