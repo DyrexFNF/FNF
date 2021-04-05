@@ -4,6 +4,7 @@ layout: template
 filename: UPDATES
 --- 
 <p style="text-align: center;"><a href="https://dyrexfnf.github.io/FNF/">Back</a></p>
+<p style="text-align: center;">___________________________________________________________________________________________________________</p>
 <p style="text-align: center;"><strong>DyrexFNF Version 1.5 (4-3-21)</strong></p>
 <p style="text-align: center;">big update!!!</p>
 <p style="text-align: center;">&bull;Whitty Mod</p>
