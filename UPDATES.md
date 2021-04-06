@@ -8,6 +8,7 @@ filename: UPDATES
 <p style="text-align: center;">___________________________________________________________________________________________________________</p>
 <p style="text-align: center;"><strong>DyrexFNF Version 1.5.1 (4-6-21)</strong></p>
 <p style="text-align: center;">&bull;Sarventes Mid-Fight Masses</p>
+<p style="text-align: center;">&bull;Feedback Section on Home Page</p>
 <p style="text-align: center;">___________________________________________________________________________________________________________</p>
 <p style="text-align: center;"><strong>DyrexFNF Version 1.5 (4-3-21)</strong></p>
 <p style="text-align: center;">big update!!!</p>
