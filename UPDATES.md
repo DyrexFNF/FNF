@@ -4,6 +4,10 @@ layout: template
 filename: UPDATES
 --- 
 <p style="text-align: center;"><a href="https://dyrexfnf.github.io/FNF/">Back</a></p>
+<h2 style="text-align: center;"><strong>Updates</strong></h2>
+<p style="text-align: center;">___________________________________________________________________________________________________________</p>
+<p style="text-align: center;"><strong>DyrexFNF Version 1.5.1 (4-6-21)</strong></p>
+<p style="text-align: center;">&bull;Sarventes Mid-Fight Masses</p>
 <p style="text-align: center;">___________________________________________________________________________________________________________</p>
 <p style="text-align: center;"><strong>DyrexFNF Version 1.5 (4-3-21)</strong></p>
 <p style="text-align: center;">big update!!!</p>
