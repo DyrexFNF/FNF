@@ -3,7 +3,7 @@
 <p class="unchanged rich-diff-level-one">fnf mak by&nbsp;<a href="https://twitter.com/ninja_muffin99" rel="nofollow">@ninja_muffin99</a></p>
 <p class="unchanged rich-diff-level-one">kad engin mod mad make by&nbsp;<a href="https://gamebanana.com/gamefiles/16761" rel="nofollow">kadedev</a></p>
 <p class="unchanged rich-diff-level-one">&nbsp;</p>
-<p class="unchanged rich-diff-level-one"><strong>[WHITTY, TRICKY, AND THE MID-FIGHT MASSES MOD ARE CURRENTLY BROKEN]</strong></p>
+<p class="unchanged rich-diff-level-one"><strong>[WHITTY, TRICKY, AND THE MID-FIGHT MASSES MOD ARE CURRENTLY BROKEN ON SOME DEVICES]</strong></p>
 <p class="unchanged rich-diff-level-one">&nbsp;</p>
 <p class="unchanged rich-diff-level-one">here gaem!:&nbsp;<a href="https://dyrexfnf.github.io/FNF/BASEFNF" rel="nofollow">click!</a></p>
 <p class="unchanged rich-diff-level-one">here is the ugh mod!:&nbsp;<a href="https://dyrexfnf.github.io/FNF/UGHFNF" rel="nofollow">ugh :D</a>&nbsp;(GAME DIFFICULTY MUST BE SET ON NORMAL OR IT WILL CRASH)</p>
