@@ -2,6 +2,7 @@
 <p class="unchanged rich-diff-level-one">i mak le epic fnf github fr chwomebooks that awe gawbage</p>
 <p class="unchanged rich-diff-level-one">fnf mak by&nbsp;<a href="https://twitter.com/ninja_muffin99" rel="nofollow">@ninja_muffin99</a></p>
 <p class="unchanged rich-diff-level-one">kad engin mod mad make by&nbsp;<a href="https://gamebanana.com/gamefiles/16761" rel="nofollow">kadedev</a></p>
+<p class="unchanged rich-diff-level-one"><strong>YOU CAN NOW APPLY FOR STAFF FOR DYREXFNF</strong></p>
 <p class="unchanged rich-diff-level-one">&nbsp;</p>
 <p class="unchanged rich-diff-level-one"><strong>[WHITTY, TRICKY, AND THE MID-FIGHT MASSES MOD ARE CURRENTLY BROKEN ON SOME DEVICES]</strong></p>
 <p class="unchanged rich-diff-level-one">&nbsp;</p>
@@ -19,6 +20,6 @@
 <p class="unchanged rich-diff-level-one">_______________________________________________________________________</p>
 <p class="unchanged rich-diff-level-one"><a href="https://dyrexfnf.github.io/FNF/BLOG" rel="nofollow">Blogs :D</a></p>
 <p class="unchanged rich-diff-level-one"><a href="https://dyrexfnf.github.io/FNF/UPDATES" rel="nofollow">Updates :D</a></p>
-<p class="unchanged rich-diff-level-one">&nbsp;</p>
+<p class="unchanged rich-diff-level-one"><a href="https://dyrexfnf.github.io/FNF/APPLY">Apply Here!</a></p>
 <p class="unchanged rich-diff-level-one">DyrexFNF v1.5.1</p>
 <p class="unchanged rich-diff-level-one">&copy;Dyrex 2021</p>
