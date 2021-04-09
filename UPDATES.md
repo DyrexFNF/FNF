@@ -6,6 +6,9 @@ filename: UPDATES
 <p style="text-align: center;"><a href="https://dyrexfnf.github.io/FNF/">Back</a></p>
 <h2 style="text-align: center;"><strong>Updates</strong></h2>
 <p style="text-align: center;">___________________________________________________________________________________________________________</p>
+<p style="text-align: center;"><strong>DyrexFNF Version 1.5.3 (4-9-21)</strong></p>
+<p style="text-align: center;"><strong>&bull;</strong>Hex Mod</p>
+<p style="text-align: center;">___________________________________________________________________________________________________________</p>
 <p style="text-align: center;"><strong>DyrexFNF Version 1.5.2 (4-8-21)</strong></p>
 <p style="text-align: center;"><strong>&bull;</strong>CG5 Mod</p>
 <p style="text-align: center;">&bull;Application For Staff Form</p>
