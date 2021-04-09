@@ -12,6 +12,7 @@
 <p class="unchanged rich-diff-level-one">BSIDES Mod!&nbsp;<a href="https://dyrexfnf.github.io/FNF/BSIDES" rel="nofollow">bsides :)</a></p>
 <p class="unchanged rich-diff-level-one">neo mod! <a href="https://dyrexfnf.github.io/FNF/NEO">neo</a></p>
 <p class="unchanged rich-diff-level-one">CG5 mod! <a href="https://dyrexfnf.github.io/FNF/CG5">cg5</a></p>
+<p class="unchanged rich-diff-level-one">HEX mod! <a href="https://dyrexfnf.github.io/FNF/HEX">hex</a></p>
 <p class="unchanged rich-diff-level-one">__________________________________________________</p>
 <p class="unchanged rich-diff-level-one">mid-fight masses mod! <a href="https://bobydob.github.io/sarventes/">sarventes!</a></p>
 <p class="unchanged rich-diff-level-one">whitty mod! <a href="https://dyrexfnf.github.io/FNF/WHITTY">whitty</a></p>
@@ -24,5 +25,5 @@
 <p class="unchanged rich-diff-level-one"><a href="https://dyrexfnf.github.io/FNF/BLOG" rel="nofollow">Blogs :D</a></p>
 <p class="unchanged rich-diff-level-one"><a href="https://dyrexfnf.github.io/FNF/UPDATES" rel="nofollow">Updates :D</a></p>
 <p class="unchanged rich-diff-level-one"><a href="https://dyrexfnf.github.io/FNF/APPLY">Apply Here!</a></p>
-<p class="unchanged rich-diff-level-one">DyrexFNF v1.5.2</p>
+<p class="unchanged rich-diff-level-one">DyrexFNF v1.5.3</p>
 <p class="unchanged rich-diff-level-one">&copy;Dyrex 2021</p>
