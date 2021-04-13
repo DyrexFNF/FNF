@@ -15,6 +15,7 @@
 <p class="unchanged rich-diff-level-one">HEX mod! <a href="https://dyrexfnf.github.io/FNF/HEX">hex</a></p>
 <p class="unchanged rich-diff-level-one">whitty mod! <a href="https://dyrexfnf.github.io/FNF/WHITTY">whitty</a></p>
 <p class="unchanged rich-diff-level-one">miku mod! <a href="https://hyperwood.github.io/miku/">miku!</a></p>
+<p class="unchanged rich-diff-level-one">zardy mod! <a href="https://dyrexfnf.github.io/FNF/ZARDY">zardy!!</a></p>
 <p class="unchanged rich-diff-level-one">__________________________________________________</p>
 <p class="unchanged rich-diff-level-one">mid-fight masses mod! <a href="https://bobydob.github.io/sarventes/">sarventes!</a></p>
 <p class="unchanged rich-diff-level-one">tricky mod!! <a href="https://dyrexfnf.github.io/FNF/TRICKY">trocky</a></p>
