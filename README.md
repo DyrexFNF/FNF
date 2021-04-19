@@ -1,3 +1,4 @@
+<p class="unchanged rich-diff-level-one">dead website for now, may or may not come back.</p>
 <p class="unchanged rich-diff-level-one">helo gamrs this dyrex</p>
 <p class="unchanged rich-diff-level-one">i mak le epic fnf github fr chwomebooks that awe gawbage</p>
 <p class="unchanged rich-diff-level-one">fnf mak by&nbsp;<a href="https://twitter.com/ninja_muffin99" rel="nofollow">@ninja_muffin99</a></p>
